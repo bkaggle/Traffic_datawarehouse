@@ -62,7 +62,7 @@ Make sure you have docker installed on local machine.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tutorialcreation/trafficELT.git
+   git clone https://github.com/bkaggle/Traffic_datawarehouse.git
    ```
 2. Run
    ```sh
