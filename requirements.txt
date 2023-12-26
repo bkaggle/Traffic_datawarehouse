@@ -2,3 +2,4 @@ dbt
 pandas
 numpy
 logger
+sqlalchemy
