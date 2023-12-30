@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 from sql.process_data import process_traffic_data
 # Update the connection string with your PostgreSQL credentials and database information
-engine = create_engine('postgresql://user:password@localhost:5432/database')
+engine = create_engine('postgresql://postgres:postgres@localhost:5432/week2')
 
 input_file = '../data/traffic.csv'
 
